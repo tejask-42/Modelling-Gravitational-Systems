@@ -18,9 +18,7 @@ In [**Week 2**](https://colab.research.google.com/drive/13xyovUaihRNz0ztnjf-BHhB
 In [**Week 3**](https://colab.research.google.com/drive/1Jr0x500B3RNCAOCdH7tGtMfC4zDJbVW_?usp=sharing), we generalised the previous code to work for any number of bodies:
 - **Restricted 3 body problem**: Studying the restricted version of the 3 body problem, simulating it and plotting contours of the potential field.
 - **Experimentation**: Plotting Earth, Moon, Sun system, 8 figure orbit, and some random initial conditions.
-  
-## Future Weeks
-- **Week 4**: (To be updated after completion)
+
 
 ## How to Use
 
